@@ -1,7 +1,9 @@
 # Tic-Tac-Toe
-## test
+## Developer Note
 
-Tic Tac Toe is a simple game but it's cool
+Tic Tac Toe is a simple game but it's cool, i love it!
 
-Verision Explain :
+
+## Versiones Explanation
+### V1.0
 You can contact me at Discord itzCloner#0949
