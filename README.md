@@ -2,11 +2,11 @@
 ## Developer Note
 
 Tic Tac Toe is a simple game but it's cool, i love it!
-My friends and I used to play tic tac toe together when I was student
-It has simple algorithm
-The programming teacher gave me this project 
-At first I just made it on .NET Core ==> V1.0
-then i decided to make it with better Graphic and more user friendly system ==> V1.1
+My friends and I used to play tic tac toe together when I was student.
+It has simple algorithm!
+The programming teacher gave me this project.
+At first I just made it on .NET Core,
+then i decided to make it with better Graphic and more user friendly system.
 
 
 ## Versiones Explanation
